@@ -1,3 +1,4 @@
+source ~/.bash_profile_instance;
 source ~/.bash_prompt;
 
 # Add tab completion for many Bash commands
